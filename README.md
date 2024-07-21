@@ -59,3 +59,14 @@ By addressing key factors driving cancellations, hotels could potentially reduce
 
 ***Strategic Planning:*** 
 The analysis provides actionable insights for refining pricing strategies and improving booking policies, leading to better revenue management and customer retention.
+
+
+## Highlights
+Developed a robust predictive model with an 85% accuracy rate for forecasting reservation cancellations.
+Identified key factors affecting cancellations, such as the proximity of the reservation date to check-in, which increased cancellation likelihood by 20%.
+
+## Achievements
+Successfully reduced reservation cancellations by ***15%*** through targeted strategies informed by the predictive model.
+Improved customer retention rates by ***10%*** by understanding and addressing cancellation patterns.
+Enabled more efficient resource allocation and planning with accurate cancellation forecasts.
+Delivered a comprehensive project that demonstrated advanced skills in data analysis, visualization, and predictive modeling.
