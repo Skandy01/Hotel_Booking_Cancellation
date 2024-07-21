@@ -33,9 +33,11 @@ Visualize the cancellation rates across different categories.
 
 #### Key Results
 **Cancellation Rates:** The dataset revealed that approximately **37.13%** of the bookings were canceled, while **62.87%** were not canceled.
-**Hotel-wise Analysis:** The cancellation rates vary between different types of hotels, providing insights into customer behavior and hotel performance.
-**Customer Preferences:** The analysis helps in understanding customer preferences and the impact of various features on the likelihood of cancellation.
+**Hotel-wise Analysis:** Resort Hotels have a lower cancellation rate (**27.98%**) compared to City Hotels (**41.71%**).The average daily rate (ADR) for Resort Hotels tends to be slightly higher compared to City Hotels over time.
+**Customer Preferences:** ADR trends show fluctuations over time, with both City and Resort Hotels experiencing periods of increase and decrease.
+Monthly reservation data indicates seasonal trends in booking volumes and cancellations..
 
 #### Performance Metrics
 **Proportion of Cancellations:** The dataset has been analyzed to calculate the proportion of cancellations, which is a key metric for understanding booking trends.
+
 **Average Daily Rate (ADR):** By analyzing the adr column, we can determine the typical revenue per available room, adjusted for outliers.
